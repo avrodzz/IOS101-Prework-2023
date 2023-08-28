@@ -8,9 +8,16 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet var nameLabel: UILabel!
+    @IBOutlet var universityLabel: UILabel!
+    @IBOutlet var jobLabel: UILabel!
+    
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
-        let randomColor = changeColor()
-        view.backgroundColor = randomColor
+        let randomBackgroundColor = changeColor()
+        let randomNameColor = changeColor()
+        
+        view.backgroundColor = randomBackgroundColor
+        nameLabel.textColor = randomNameColor
     }
     
     func changeColor() -> UIColor{
