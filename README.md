@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 <img src='codepath-ios-2023.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ezgif](https://ezgif.com/)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
