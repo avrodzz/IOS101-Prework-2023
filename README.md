@@ -5,7 +5,7 @@ Submitted by: **Alexis Rodriguez**
 **IOS101-Prework-2023** is an app that displays three labels that mention my name, school, and job aspiration. 
   This app also changes the background to a randomized color every time the provided button `Change Background Color` is clicked.
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -13,6 +13,11 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+## Bonus Features
+- [x] Improve the UI by using different a different font
+- [x] Used a Stack and AutoLayout to display the labels and button on a wider selection of screens and orientations
+- [x] Text color changes every time the background color is changed
  
 ## Video Walkthrough
 
