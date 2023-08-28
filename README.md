@@ -34,9 +34,37 @@ GIF created with [ezgif](https://ezgif.com/)
 
 ## App Brainstorming (Step 4)
 
+**Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps.**
+
+- Duolingo
+  * Streak widget
+  * Frequent notifications with cute designs
+  * Stories feature, the stories allow one to learn more conversational aspects of a language
+  * Friends Quest, complete certain tasks within the app with a friend that is also learning a new language
+  
+- Spotify
+  * Simple, concise design
+  * Discover Weekly, builds a playlist based on what it thinks you might enjoy
+  * Liked Songs filter, if you only want to listen to "Angst", "Chill", "Rock", etc. you can make that happen by a click of a button in Liked Songs
+
+- Airbnb
+  * Button that allows you to display the total price before taxes
+  * Inbox feature, gives the user quick communication access to talk to their hosts on the app
+  * Filter for the vibe of accommodation you are looking for ("Lakefront", "Trending", "Cabins")
+
+**Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.**
+
+- I would love to improve the ios Alarm app. I believe that it lacks a lot of very necessary features specifically in the "Alarm" section of the app. For example, deleting
+  multiple alarms at a time is a pain. Currently, just to delete one alarm you would need to click "edit", then the red minus, and then "delete". If you have more than ten
+  alarms it would take 30+ steps in order to delete all of them - this is very inefficient from a user's standpoint. Another feature I would love to see is the ability to have
+  particular alarms set on future dates. Lastly, having a way to categorizes or filter the alarms in some way would be nice. That way if you need alarms for school, work, or
+  general life events you can access them with ease. 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+- When implementing the Stack of the four elements, I could not figure out how to make each individual cell a certain height. This makes the UI look a bit
+  awkward, but the layout on different sizes of screens looks clean.
 
 ## License
 
